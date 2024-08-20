@@ -1,7 +1,5 @@
 # Laravel CRUD Generator Package
 
-![CRUD Example](https://your-image-url.com/crud-example.png)
-
 This Laravel package allows you to **easily generate CRUD (Create, Read, Update, Delete) operations** for a model based on an existing database table.
 
 ## Features
